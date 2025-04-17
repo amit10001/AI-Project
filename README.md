@@ -13,12 +13,8 @@ A comprehensive machine learning project aimed at understanding and predicting d
 - [Modeling Techniques](#modeling-techniques)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results & Insights](#results--insights)
 - [Future Work](#future-work)
-- [License](#license)
-- [Author](#author)
 
 ---
 
